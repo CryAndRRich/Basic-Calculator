@@ -33,5 +33,6 @@ The code is organized into three main parts:
 # Additional Notes
 This is not the best version of the calculator yet, so if you're interested in improving it:
 * Feel free to customize the calculator's appearance and functionality by modifying the code within the classes
+* There are still some minor errors in the calculation due to the irrational nature of `e` (for example, if you calculate `ln(e)`, the result will be `1.0000000000003135`)
 * Consider adding more advanced features like memory functions(`Ans`), scientific constants(e.g., `pi`) and absolute value(`| |`)
 * Try adding advanced arithmetic operations such as permutation(`P(n,r)`), combination(`C(n,r)`) and complex number(`i`)
