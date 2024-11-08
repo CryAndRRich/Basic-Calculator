@@ -1,4 +1,4 @@
-# Python Calculator with Pygame
+# Basic Calculator
 This project implements a basic calculator using the Pygame library in Python. It provides a graphical user interface (GUI) for users to enter expressions and view the results
 # Features:
 * Basic arithmetic operations (`+`, `-`, `*`, `/`)
